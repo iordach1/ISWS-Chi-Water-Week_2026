@@ -1,0 +1,8 @@
+
+modflow_models/*
+
+
+!modflow_models/
+
+#update with final base model name
+!modflow_models/uncalibrated_iisg_model/
