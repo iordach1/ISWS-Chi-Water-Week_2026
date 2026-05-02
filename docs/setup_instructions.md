@@ -1,11 +1,11 @@
 # Participant Setup Instructions
 
 Welcome! This guide will walk you through everything you need to get your computer ready
-for the Chicago Water Week 2026 groundwater modeling event. **No prior programming experience
+to start working with the code and demonstrations previewed by ISWS  during the 2026 Chicago Water Week Participatory Groundwater Modeling Event **No prior programming experience
 is required** — just follow the steps in order and you will be up and running.
 
-If you get stuck at any point, please reach out to the event organizers before the session
-so we can troubleshoot together.
+If you get stuck at any point, please reach out to the event organizers
+so we can troubleshoot together. Other people might be experiencing the same issue.
 
 ---
 
@@ -161,8 +161,7 @@ This step installs all the Python packages needed for the workshop into an isola
 environment called `state-mf6`. This keeps everything organized and avoids conflicts
 with any other Python software on your computer.
 
-> **This step may take 10–20 minutes** depending on your internet speed. Please do this
-> *before* the event, not during it!
+> **This step may take 10–20 minutes** depending on your internet speed.
 
 In your terminal, make sure you are inside the `ISWS-Chi-Water-Week_2026` folder
 (from Step 3), then run:
@@ -286,4 +285,4 @@ jupyter notebook python_notebooks/intro_base_model.ipynb
 
 ---
 
-*We look forward to exploring groundwater with you! — Vlad Iordache & Daniel Abrams, ISWS*
+*Thank you for exploring groundwater with us! — Vlad Iordache & Daniel Abrams, ISWS*
