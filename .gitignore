@@ -10,7 +10,6 @@ modflow_models/*
 
 *.grb
 *.cbc
-*.npf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
