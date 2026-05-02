@@ -1,7 +1,7 @@
 # ISWS Chicago Water Week 2026 — Participatory Groundwater Modeling
 
 [![Illinois State Water Survey](https://img.shields.io/badge/ISWS-University%20of%20Illinois-13294B)](https://isws.illinois.edu/)
-[![Illinois-Indiana Sea Grant](https://img.shields.io/badge/Funded%20by-Illinois--Indiana%20Sea%20Grant-005F86)](https://iisg.anr.msu.edu/)
+[![Illinois-Indiana Sea Grant](https://img.shields.io/badge/Funded%20by-Illinois--Indiana%20Sea%20Grant-005F86)](https://iiseagrant.org/research-project/bridging-the-gap-developing-water-resource-assessment-tools-for-the-southern-lake-michigan-region/)
 
 ---
 
