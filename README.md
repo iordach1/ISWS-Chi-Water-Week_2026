@@ -2,6 +2,7 @@
 
 [![Illinois State Water Survey](https://img.shields.io/badge/ISWS-University%20of%20Illinois-13294B)](https://isws.illinois.edu/)
 [![Illinois-Indiana Sea Grant](https://img.shields.io/badge/Funded%20by-Illinois--Indiana%20Sea%20Grant-005F86)](https://iiseagrant.org/research-project/bridging-the-gap-developing-water-resource-assessment-tools-for-the-southern-lake-michigan-region/)
+[![Current](https://img.shields.io/badge/CWW%20Hosts-Current-269DB6)](https://currentwater.org/)
 
 ---
 
@@ -35,21 +36,25 @@ interactively during the demonstration.
 
 ## Event Overview
 
-**What happens to our local water supply if we add a new well?**
-**What direction does contaminated groundwater move, and can we detect a disturbance in the flow?**
-**How does drought strike back at our water resources?**
+**What happens to our local water supply if we add a *new well*?**
 
-For Chicago Water Week — occurring **Monday, May the Fourth** — join ISWS for a two-hour
+**How does drought *strike back* at our water resources?**
+
+**How does the contamination at the surface *return* to the well, and can we detect a disturbance in the capture zone?**
+
+---
+
+On the second day of 2026 Chicago Water Week — **Monday, May the Fourth** — join ISWS for a two-hour
 participatory groundwater modeling event on Zoom, focused on Chicago's South Suburbs. The
 session is part presentation, part live workshop, and part low-stakes science adventure.
 
-Attendees will use a short survey to prompt a series of questions and experiments with a
-MODFLOW 6 model running inside Jupyter Notebook, proving that these are the models you're
-looking for. The goal is to make groundwater modeling feel **accessible, interactive, and
+Attendees will participate in short surveys and polls to prompt a series of questions and experiments with a
+MODFLOW 6 model running inside Jupyter Notebook, proving that *these are the models you're
+looking for.* The goal is to make groundwater modeling feel **accessible, interactive, and
 genuinely useful** — moving it away from the mysterious black box and into a space where
 changing inputs and assumptions affects results in real time.
 
-**Speakers:** Vlad Iordache and Daniel Abrams — Illinois State Water Survey, UIUC
+**Co-hosts and lead developers:** Vlad Iordache and Daniel Abrams — Illinois State Water Survey, UIUC
 
 *This event is affiliated with Chicago Water Week, presented by [Current](https://currentwater.org/).*
 
