@@ -13,8 +13,8 @@ This repository contains code, a base groundwater flow model, and Jupyter Notebo
 [Illinois State Water Survey (ISWS)](https://isws.illinois.edu/) at the University of Illinois
 Urbana-Champaign as part of **Chicago Water Week 2026**.
 
-The event takes place on **Monday, May 4th, 2026** via Zoom. Attendees explore groundwater
-questions relevant to Chicago's South Suburbs through live experiments with a fast-running
+The event took place on **Monday, May 4th, 2026** from 8AM - 10AM CDT via Zoom. Attendees explored groundwater
+questions relevant to Chicago's South Suburbs through live experiments with a "fast-running"
 MODFLOW 6 model built in Jupyter Notebook.
 
 ---
@@ -122,7 +122,7 @@ jupyter notebook python_notebooks/intro_base_model.ipynb
 | Notebook | Description |
 |---|---|
 | `intro_base_model.ipynb` | Load, inspect, and run the base steady-state MODFLOW 6 model. Visualize heads, water table elevations, and boundary conditions. |
-| `new_demands.ipynb` | Add a new pumping well to the model and compare results to the base scenario. |
+| `new_demands.ipynb` | Convert the base model to a transient simulation, add new pumping wells to the model, run the simulation, and compare results to the base scenario. |
 | `drought_impacts.ipynb` | Convert the base model to a transient simulation, reduce recharge to represent drought, run the simulation, and explore spatial and temporal patterns of drawdown using static maps, hydrographs, and an interactive dashboard. |
 
 ---
