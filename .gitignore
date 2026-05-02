@@ -6,6 +6,7 @@ modflow_models/*
 
 #update with final base model name
 !modflow_models/uncalibrated_iisg_model/
+!modflow_models/iisg_local_model/
 
 *.grb
 *.cbc
