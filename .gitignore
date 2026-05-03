@@ -4,14 +4,19 @@ modflow_models/*
 
 !modflow_models/
 
-#update with final base model name
-!modflow_models/uncalibrated_iisg_model/
+# update with final base model name
 !modflow_models/iisg_local_model/
 
 *.grb
 *.cbc
 
+# ESRI lock files
+*.lock
+
+# PyCharm junk
 .idea/
+
+# output file from 2_drought_impacts.ipynb
 positive_drawdown_anomalies.csv
 
 # Byte-compiled / optimized / DLL files
