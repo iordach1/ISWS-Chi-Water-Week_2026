@@ -11,6 +11,9 @@ modflow_models/*
 *.grb
 *.cbc
 
+.idea/
+positive_drawdown_anomalies.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 <<<<<<< HEAD
