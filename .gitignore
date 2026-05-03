@@ -7,6 +7,7 @@ modflow_models/*
 # update with final base model name
 !modflow_models/iisg_local_model/
 
+# big mudflow outputs
 *.grb
 *.cbc
 
