@@ -1,0 +1,52 @@
+name: state-mf6
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python>=3.9,<3.13
+  - ipython
+  - jupyter
+  - notebook
+  - ipykernel
+  - owslib
+  - flopy
+  - pyyaml
+  - rioxarray
+  - geopandas
+  - openpyxl
+  - rasterstats
+  - sqlalchemy
+  - cartopy
+  - scipy
+  - matplotlib>=3.10
+  - pandas
+  - numpy
+  - dask
+  - setuptools
+  - gdal<3.10.2
+  - pip
+  - xarray
+  - netcdf4
+  - fiona
+  - rasterio
+  - shapely
+  - rtree
+  - pyproj
+  - pyshp
+  - requests
+  - pathlib
+  - xarray-spatial
+  - ipyleaflet
+  - pip:
+    - pyodbc
+    - wells4hydrogeology
+    - gis-utils
+    - git+https://github.com/modflowpy/flopy@develop
+    - git+https://github.com/aleaf/pydrograph@develop
+    - git+https://github.com/aleaf/modflow-export@develop
+    - git+https://github.com/doi-usgs/sfrmaker@develop
+    - git+https://github.com/doi-usgs/modflow-setup@develop
+    - git+https://github.com/aleaf/modflow-obs
+    - pyPRISMClimate
+
+
