@@ -119,11 +119,12 @@ jupyter notebook python_notebooks/intro_base_model.ipynb
 
 ## Notebooks
 
-| Notebook | Description |
+| Notebook | Scenario |
 |---|---|
-| `intro_base_model.ipynb` | Load, inspect, and run the base steady-state MODFLOW 6 model. Visualize heads, water table elevations, and boundary conditions. |
-| `new_demands.ipynb` | Convert the base model to a transient simulation, add new pumping wells to the model, run the simulation, and compare results to the base scenario. |
-| `drought_impacts.ipynb` | Convert the base model to a transient simulation, reduce recharge to represent drought, run the simulation, and explore spatial and temporal patterns of drawdown using static maps, hydrographs, and an interactive dashboard. |
+| `0_intro_base_model.ipynb` | Build familiarity with the base IISG groundwater model |
+| `1_new_demands.ipynb` | New large-scale pumping demand |
+| `2_drought_impacts.ipynb` | Reduced recharge representing a drought |
+| `3_gw_age.ipynb` | Groundwater age and transport modeling |
 
 ---
 
